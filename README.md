@@ -1,5 +1,4 @@
-# About Our Project:
-## <ins>MyPAL (Picture Assisted Language) App<ins>
+# <ins>MyPAL (Picture Assisted Language) App:<ins>
 
 An Augmentative and Alternative Communication (AAC) app created to help children with autism, special needs, or verbal delays communicate with the world around them. 
 
