@@ -14,3 +14,4 @@ Users can also add their own custom sentences.
 Credit to: Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 
 ### \*Read install.md for installation instructions\*
+![mypal](https://user-images.githubusercontent.com/40577932/133332504-17bf43f1-007d-4ed9-8b88-2756abcd85d1.gif)
